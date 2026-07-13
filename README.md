@@ -6,48 +6,33 @@ This repository contains my JavaScript learning journey. I use it to practice Ja
 
 ---
 
-## 🚀 Topics Covered
+## Topics Covered
 
-* Variables
-* Data Types
-* Operators
-* Conditional Statements
-* Loops
-* Functions
-* Arrays
-* Objects
-* Strings
-* ES6 Features
-* DOM Manipulation
-* Events
-* Array Methods
-* Object Methods
-* JSON
-* Local Storage
-* Promises
-* Async/Await
-* Fetch API
+- Variables
+- Data Types
+- Type Conversion
+- typeof Operator
+- Truthy & Falsy Values
+- Equality Operators
+- Basic Operators
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-JavaScript-Practice/
+JavaScript-Practice
 │
-├── Variables/
-├── Data-Types/
-├── Operators/
-├── Conditions/
-├── Loops/
-├── Functions/
-├── Arrays/
-├── Objects/
-├── Strings/
-├── ES6/
-├── DOM/
-├── Async-JavaScript/
-├── Mini-Challenges/
+├── JavaScript Basics
+│     ├── Datatype.js
+│     ├── Equal_and_StrictEqual.js
+│     ├── Operators.js
+│     ├── PracticeCode.js
+│     ├── Truthy_Falsy.js
+│     ├── Typeconversion.js
+│     ├── typeof_operator.js
+│     └── Variable.js
+│
 └── README.md
 ```
 
