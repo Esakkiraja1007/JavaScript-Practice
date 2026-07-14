@@ -8,13 +8,28 @@ This repository contains my JavaScript learning journey. I use it to practice Ja
 
 ## Topics Covered
 
+### 🔹 JavaScript Basics
 - Variables
 - Data Types
 - Type Conversion
-- typeof Operator
+- `typeof` Operator
 - Truthy & Falsy Values
-- Equality Operators
+- Equality Operators (`==` vs `===`)
 - Basic Operators
+
+### 🔹 Control Flow
+- if
+- if...else
+- Nested if
+- else if
+- switch
+- Ternary Operator
+- for loop
+- while loop
+- do...while loop
+- break
+- continue
+- Practice Problems
 
 ---
 
@@ -32,6 +47,20 @@ JavaScript-Practice
 │     ├── Typeconversion.js
 │     ├── typeof_operator.js
 │     └── Variable.js
+│
+├── ControlStatement
+│     ├── If.js
+│     ├── IF_Else.js
+│     ├── Else_if.js
+│     ├── Nested_if.js
+│     ├── Switch.js
+│     ├── Ternary.js
+│     ├── Forloop.js
+│     ├── Whileloop.js
+│     ├── Do_whileloop.js
+│     ├── Break.js
+│     ├── Continue.js
+│     └── Practice_Problem.js
 │
 └── README.md
 ```
