@@ -31,6 +31,20 @@ This repository contains my JavaScript learning journey. I use it to practice Ja
 - continue
 - Practice Problems
 
+## 🔹 Functions
+- Function Declaration
+- Function Expression
+- Parameters & Return
+- Scope Basics
+- Callback Functions
+- IIFE (Immediately Invoked Function Expression)
+- Closure
+- Arrow Functions
+- Default Parameters
+- Rest Parameters
+- Higher Order Functions
+- Lexical Scope
+
 ---
 
 ## 📂 Repository Structure
@@ -62,8 +76,22 @@ JavaScript-Practice
 │     ├── Continue.js
 │     └── Practice_Problem.js
 │
+├── 03 - Function
+│     ├── Function_Declaration.js
+│     ├── Function_Expression.js
+│     ├── Parameter_Return.js
+│     ├── Scope_Basics.js
+│     ├── Callback_Functions.js
+│     ├── IIFE.js
+│     ├── Closure_Function.js
+│     ├── Arrow_Function.js
+│     ├── DefaultParameters.js
+│     ├── Rest_Parameters.js
+│     ├── Higher_Order_Functions.js
+│     ├── Lexical_Scope.js
+│     └── Practice_problem.js
+│
 └── README.md
-```
 
 ---
 
